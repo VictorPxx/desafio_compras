@@ -10,4 +10,8 @@ public class ListaDeCompras {
         return listaDeCompras;
     }
 
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
